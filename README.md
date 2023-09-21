@@ -15,14 +15,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
 
 ![Screenshot](</images/Web capture_21-9-2023_5642_.png>)![Web capture_21-9-2023_5642_](https://github.com/SaiKapilKumar/qr-code-component/assets/58817325/43cabde9-923b-475f-8e10-64aff7452f38)
-
 
 ### Links
 
