@@ -21,11 +21,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![Screenshot](</images/Web capture_21-9-2023_5642_.png>)
+![Screenshot](</images/Web capture_21-9-2023_5642_.png>)![Web capture_21-9-2023_5642_](https://github.com/SaiKapilKumar/qr-code-component/assets/58817325/43cabde9-923b-475f-8e10-64aff7452f38)
+
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://saikapilkumar.github.io/qr-code-component/)
+- Live Site URL: [https://saikapilkumar.github.io/qr-code-component/](https://saikapilkumar.github.io/qr-code-component/)
 
 ## My process
 
